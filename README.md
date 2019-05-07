@@ -5,7 +5,7 @@ The application enables remote control and automation of the MAC / PC via an ios
 Mainly the application was developed for the automation of MAC / PC based simulators.
 
 # Instructions
-To use FT19 Connect you have to edit the secrurity settings on your MAC/PC. The applications uses functions to act as a keyboard to manipulate the simulator.
+To use FT19 Connect you have to edit the secrurity settings on your MAC/PC. The applications uses functions to act as a keyboard to manipulate the simulator. After that you have to connect your MAC/PC and the to the same network or create a network with your MAC/PC and connect your IPad to the created network.
 
 ## Mac
 1. System Preferences -> Secrurity and Privacy -> Privacy -> Accessibility 
