@@ -16,7 +16,7 @@ To use FT19 Connect you have to edit the secrurity settings on your MAC/PC. The 
 
 ## PC
 1. Start the Application
-2. PopUp apears
+2. PopUp appears
 3. Allow the app to access the private network
 4. Have fun
 
